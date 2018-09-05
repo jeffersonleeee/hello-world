@@ -1,2 +1,2 @@
 # hello-world
- Today is Wednesday.
+ Ternary Operator
